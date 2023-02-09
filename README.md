@@ -1,3 +1,5 @@
+## ibc-go на примере Juno - Planq
+
 - Ставим ibc-go релей (нужен [go](https://go.dev/doc/install), номер релиза для чекаута смотрим [тут](https://github.com/cosmos/relayer/releases))
 
 ``` 
